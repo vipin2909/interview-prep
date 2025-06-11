@@ -1,0 +1,8 @@
+Error
+
+1. Reference Error
+2. Type Error
+3. Syntax Error
+
+There is seprate space for let and const 
+they can't be accessed from window object 
